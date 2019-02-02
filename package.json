@@ -1,0 +1,22 @@
+{
+  "name": "keepprojectsalive",
+  "version": "1.0.0",
+  "description": "Pings heroku projects every 5 minutes so they load faster when recruiters are looking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govindrai/keepprojectsalive.git"
+  },
+  "author": "Govind Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/govindrai/keepprojectsalive/issues"
+  },
+  "homepage": "https://github.com/govindrai/keepprojectsalive#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
